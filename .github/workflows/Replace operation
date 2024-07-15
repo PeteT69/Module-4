@@ -1,0 +1,21 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int main()
+{
+	vector<int> values = { 2, _, 2, _, 1, _};
+	int old_value;
+	cin >> old_value;
+	int new_value;
+	cin >> _________;
+	replace(______________, ____________, _________, _________);
+	for (auto i : values)
+		cout << i << " ";
+	cout << endl;
+
+	return 0;
+}

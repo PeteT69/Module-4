@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+//your code
+
+int main()
+{
+	vector<int> results;
+	int count;
+	cin >> count;
+	
+	//your code
+	
+	return 0;
+}
